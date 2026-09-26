@@ -6,6 +6,15 @@ I'm a 2nd-year Computer Programming student at **Kastamonu University**.
 
 I'm interested in software development, web technologies, automation, data analysis, and artificial intelligence. I enjoy building practical projects and continuously improving my technical skills.
 
+---
+
+### 🌟 Featured Projects
+
+* **[Kastamonu University Sustainability Coordinator Web Platform](https://surdurulebilirlik.kastamonu.edu.tr/)**  
+  Redesigned, structured, and presented the official sustainability coordinator website from scratch, delivering a modern, responsive, and user-friendly interface.
+
+---
+
 ### 🚀 VebloMac
 I'm also developing **VebloMac**, a digital web design and software initiative focused on creating modern websites, software solutions, logos, and digital designs for businesses and individuals.
 
@@ -31,7 +40,6 @@ I'm also developing **VebloMac**, a digital web design and software initiative f
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 
 ---
 
